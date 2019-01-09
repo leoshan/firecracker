@@ -1,1 +1,2 @@
 https://www.katacoda.com/firecracker-microvm/scenarios/getting-started
+https://github.com/firecracker-microvm/firecracker/issues/673
